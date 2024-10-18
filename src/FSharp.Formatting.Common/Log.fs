@@ -2,7 +2,7 @@ namespace FSharp.Formatting.Common
 
 open System.Diagnostics
 
-module internal Log =
+module Log =
     let source = new System.Diagnostics.TraceSource "FSharp.Formatting"
 
     let ConsoleListener () =

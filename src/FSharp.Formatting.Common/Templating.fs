@@ -214,7 +214,7 @@ module ParamKeys =
     /// This can be empty when both properties are not provided for the current page.
     let ``fsdocs-meta-tags`` = ParamKey "fsdocs-meta-tags"
 
-module internal SimpleTemplating =
+module SimpleTemplating =
 
 #if NETSTANDARD2_0
     type StringBuilder with

@@ -1,4 +1,4 @@
-module internal FSharp.Formatting.PynbModel
+module FSharp.Formatting.PynbModel
 
 open System.Web
 

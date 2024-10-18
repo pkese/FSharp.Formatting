@@ -24,6 +24,6 @@
     <ProjectReference Include="..\FSharp.Formatting.Common\FSharp.Formatting.Common.fsproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="FSharp.Core" />
+    <!--PackageReference Include="FSharp.Core" /-->
   </ItemGroup>
 </Project>
